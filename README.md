@@ -4,7 +4,7 @@
 
 Drift brings a new wallpaper to your desktop each day. Pick what you feel like seeing—nature, oceans, space, architecture, and more—or let Drift surprise you. It keeps your wallpaper in sync as you move between monitors and desktops.
 
-**[Download Drift for Mac](https://github.com/sa-ma/Drift/releases/latest/download/Drift.dmg)**
+**[Download Drift for Mac](https://github.com/sa-ma/drift-releases/releases/latest/download/Drift.dmg)**
 
 Works on Macs with macOS 14 or newer, including Apple silicon and Intel models. Drift is free to use and needs no account.
 
